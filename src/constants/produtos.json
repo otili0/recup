@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Perfume",    
+    "status": "indisponível",
+    "desc": "Phantom Paco Rabanne ",
+    "categ": "cosmeticos",
+    "value": "R$ 479.99",
+    "image": "https://cdn.awsli.com.br/1851/1851229/produto/122675246/d44d8a9f6d.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Colar",    
+    "status": "disponivel",
+    "desc": "Jand Karno em perolas",
+    "categ": "acessorio",
+    "value": "2200.00",
+    "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Batom",
+    "status": "disponivel",
+    "desc": "O.U.i Rouge Luxe - Batom Rouge à Lèvres 3,5g",
+    "categ": "cosmeticos",
+    "value": "R$ 79.90",
+    "image": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_1800,c_limit/e_trim/v1/imagens/products/85555/85555.png"
+  },
+  {
+    "id": 4,
+    "name": "Creme Angel",
+    "status": "disponivel",
+    "desc": "Creme Angel hidrante de pele",
+    "categ": "cosmeticos",
+    "value": "R$ 579.00",
+    "image": "https://static.wixstatic.com/media/00bad6_a21ab3bdbeb5423298daf5d8561c83dd~mv2.jpg/v1/fill/w_480,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/00bad6_a21ab3bdbeb5423298daf5d8561c83dd~mv2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Creme Chanell",
+    "status": "disponivel",
+    "desc": "CONCENTRADO NOTURNO REPARADOR DEFINITIVO. EDIÇÃO LIMITADA",
+    "categ": "cosmeticos",
+    "value": "R$ 7.600,00",
+    "image": "https://www.chanel.com/images//t_one//w_0.63,h_0.63,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1020/sublimage-l-extrait-de-nuit-l-ecrin-ultimate-repair-night-concentrate-1fl-oz--packshot-default-144878-9536295338014.jpg"
+  }
+]
